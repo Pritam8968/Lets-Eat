@@ -1,2 +1,2 @@
 # LetsEat commercial website.
-hosted at: 
+hosted at: https://pritam8968.github.io/Lets-Eat/
